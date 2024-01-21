@@ -1,10 +1,8 @@
 # Language modeling
 ## Focus - Understanding contextual retrievability
 
-### Team
-1. Ankush Raut
-2. Tapas Das
-3. Abhishek Mukundan
+### Project by
+ Abhishek Mukundan
 
 ### Problem statement
 
